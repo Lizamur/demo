@@ -8,8 +8,11 @@ Front End Developer
 
 ## Objective
 Extremely motivated for career change goal
+
 ## Work Experience
 I have no work experience. But you can see my training projects on Github.
+
+## My projects
 
 ## Technical Skills
 - HTML
